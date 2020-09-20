@@ -102,4 +102,3 @@
 end
 
 
-game.play
